@@ -12,4 +12,4 @@ Permissions: The shell provides a way to manage file and directory permissions u
 
 Environment Variables: Environment variables are variables that are set in the shell and can be used by programs and scripts. Examples of common environment variables in the ALX Project shell include PATH (the list of directories where the shell looks for executable files) and HOME (the user's home directory).
 
-These are just some of the basic concepts and commands in the ALX Project shell. By mastering these concepts, users can become more efficient and productive in the Unix-based environment.
+These are just some of the basic concepts and commands in the ALX Project shell. By mastering these concepts, users can become more efficient and productive in the Unix-based environment .
